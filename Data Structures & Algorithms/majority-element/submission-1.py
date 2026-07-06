@@ -1,4 +1,4 @@
-#compte hashmap solution O(n) time and space O(n) globalement
+#compte hashmap solution O(n) time and space O(1) globalement
 
 
 class Solution:
